@@ -1,0 +1,14 @@
+.heading {
+  padding: 2rem 3rem;
+}
+
+.heading > h1 {
+  text-transform: capitalize;
+  font-size: 2rem;
+}
+
+.heading > span {
+  display: block;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
